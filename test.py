@@ -38,8 +38,7 @@ print (f'Attack Started To: {target}:{port} Time: {timer}')
 standard_time = time.time()
 
 #def run():
-packet_size = random._urandom(65500) 
-packet_size = random._urandom(65500) 
+packet_size = random._urandom(65500)  
 while True: 
     end = time.time()
             
